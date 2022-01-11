@@ -1,2 +1,2 @@
 # Socket-Programming-
-Socket Programming introduction in Python
+Introducing Socket Programming in Python.
