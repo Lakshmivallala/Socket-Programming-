@@ -1,7 +1,9 @@
-google.com:80 -> 80: port number for http
+google.com:80 -> 80: port number for http or 173.194.203.106:80 
 Even google.com:443 -> since google.com secures its site using https 
 
 But google.com:25 (error) 
 
-http://httpforever.com/ is a deliberate "reliable insecure connection" 
+
+Website with only http (no secure encryption)
+http://httpforever.com/ (or http://neverssl.com) is a deliberate "reliable insecure connection" 
 Works with port number 80 but not 443
