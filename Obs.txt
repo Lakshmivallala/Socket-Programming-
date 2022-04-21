@@ -7,3 +7,5 @@ Website with only http (no secure encryption):
 
 http://httpforever.com/ (or http://neverssl.com) is a deliberate "reliable insecure connection" 
 Works with port number 80 but not 443.
+
+The port number 80 does not work for https now.  443 must be used in that case.
